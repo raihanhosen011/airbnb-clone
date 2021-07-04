@@ -1,16 +1,22 @@
-@import url("https://fonts.googleapis.com/css?family=Hind+Siliguri");
-/* Global */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
 * {
-  font-family: Avenir, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
-    Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
-    Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  font-family: 'Quicksand', sans-serif;
 }
 .fs-22{
   font-size: 22px;
 }
+.fs-14{
+  font-size: 14px;
+}
+.fs-13{
+  font-size: 13px !important;
+}
 .google_color{
   color: red;
+}
+.grey{
+  background: rgb(230, 230, 230);
 }
 .face_color{
   color: #1778F2;
@@ -20,6 +26,24 @@
 }
 .pink_gd{
   background: linear-gradient(45deg,#4f59ff,#15dbff) !important;
+}
+.w-16{
+  width: 16px;
+}
+.w-18{
+  width: 18px !important; 
+}
+.bg-tomato{
+  background: tomato !important;
+}
+.w-13{
+  width: 13px;
+}
+.input{
+  border: none;
+  outline: none;
+  background: transparent;
+  flex: auto;
 }
 .bangla {
   font-family: "Hind Siliguri", sans-serif !important;
@@ -136,4 +160,8 @@ p.footer {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+.max-width{
+  max-width: 1080px;
+  margin: auto !important;
 }

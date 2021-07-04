@@ -1,0 +1,53 @@
+.header {
+  background: rgba(0, 0, 0, 0.3411764705882353);
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+  transition: 0.5s;
+}
+
+.bg-white{
+  background: rgb(241, 241, 241) !important;
+}
+
+.bg-white .header_logo{
+  filter: brightness(1) !important;
+  background: tomato !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+}
+
+.header_logo {
+  filter: brightness(3) !important;
+  background: rgb(255, 255, 255) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+}
+
+.single_btn {
+  cursor: pointer;
+  transition: 0.3s;
+  color: white;
+}
+
+.bg-white .single_btn{
+  color: rgb(31, 31, 31) !important;
+}
+
+.single_btn:hover {
+  background: #e5e7eb;
+  color: rgb(46, 46, 46);
+}
+.hd_bg {
+  background: #e5e7eb;
+}
+.color {
+  color: #e5e7eb;
+}
+.color-bl {
+  color: #3b3b3b63;
+}
+.color-bl-500 {
+  color: #2b2b2bcc;
+}

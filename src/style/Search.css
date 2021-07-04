@@ -1,0 +1,13 @@
+.search{
+  margin-top: 8rem !important;  
+}
+.radius{
+  border-radius: 10px;  
+}
+.card__img__wrapper > img{ 
+  transition: .3s;
+  cursor: pointer;
+}
+.card__img__wrapper:hover > img {
+  transform: scale(1.145645);  
+}
