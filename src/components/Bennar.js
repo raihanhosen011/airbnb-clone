@@ -1,10 +1,10 @@
-import React, { useState } from 'react'
 import Button from '@material-ui/core/Button';
+import IconButton from '@material-ui/core/IconButton';
 import SearchIcon from '@material-ui/icons/Search';
-import IconButton from '@material-ui/core/IconButton'
+import React, { useState } from 'react';
+import { useHistory } from 'react-router';
 import DatePicker from './DatePicker';
 import Guests from './Guests';
-import { useHistory } from 'react-router';
 
 const Bennar = () => {
     const [date,setDate] = useState(false)
@@ -44,7 +44,7 @@ const Bennar = () => {
                          setDate(false)  }} 
                       className='single__panel ps-4 p-2 rounded-pill' >
 
-                      <h5 className='fw-bold mb-0 fs-13 ' >Guests</h5>
+                      <h5 className='fw-bold mb-0 fs-13 ' >hello world</h5>
                       <span className='fs-14' >0 guests</span>  
                    </div>
 
