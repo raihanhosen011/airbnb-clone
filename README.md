@@ -1,11 +1,4 @@
-[![Youtube][youtube-shield]][youtube-url]
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 [<h1>Live demo</h1>](https://airbnb-clone-nw.netlify.app/)
-
-![alt text](https://i.ibb.co/Jzj82VC/project-7-with-React-js.png)
 
 # Getting Started with Create React App
 
