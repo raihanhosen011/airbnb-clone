@@ -1,6 +1,6 @@
 # Airbnb website clone
 
-<img src='https://github.com/raihanhosen011/airbnb-clone/blob/main/airbnb-clone.png?raw=true' alt='airbnb-clone' />
+<img src='https://github.com/raihanhosen011/airbnb-clone/blob/main/airbnb-clone.png?raw=true' width='80%' alt='airbnb-clone' />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
