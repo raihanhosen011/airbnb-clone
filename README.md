@@ -1,6 +1,6 @@
-[<h1>Live demo</h1>](https://airbnb-clone-nw.netlify.app/)
+# Airbnb website clone
 
-# Getting Started with Create React App
+<img src='https://github.com/raihanhosen011/airbnb-clone/blob/main/airbnb-clone.png?raw=true' alt='airbnb-clone' />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
